@@ -1,0 +1,1 @@
+This repo is for an automatic error detection system for 3D printers. It is very much a WIP, so use the code at your own risk if you download this
